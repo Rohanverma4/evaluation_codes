@@ -1,0 +1,15 @@
+
+.movies-list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 4%;
+    
+}
+
+.movies-list > div {
+    background-color: rgb(190, 248, 248);
+}
+
+/* .movies-list > div > img{
+    width: 100%;
+} */
